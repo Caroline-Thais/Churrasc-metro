@@ -8,8 +8,7 @@ body{
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
     background-color: #a1ffd9;
-    background-image: url(images/grill.png);
-  
+    background-image: url(images/grill.png); 
 }
 
 .container{
