@@ -1,0 +1,45 @@
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #a1ffd9;
+    background-image: url(images/grill.png);
+  
+}
+
+.container{
+    background-color: #f3ff77;
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    margin-top: 0;
+    padding: 20px;
+}
+
+h4{
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 10px;;
+}
+
+button{
+    margin: auto;
+    display: block;
+    background-color: #3ffbe0;
+    border-radius: 2px; 
+    cursor: pointer; 
+}
