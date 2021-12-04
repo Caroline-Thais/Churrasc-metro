@@ -1,4 +1,4 @@
-// Carne - 400gr por pessoa + de 6h - 650gr (criança - considerar metade)
+//Carne - 400gr por pessoa + de 6h - 650gr (criança - considerar metade)
 //Cerveja - 1200ml por pessoa + de 6h - 2000ml
 //Refrigerante/água - 1000ml por pessoa + de 6h 1500ml
 
