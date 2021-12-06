@@ -4,10 +4,6 @@
     box-sizing: inherit;
 }
 
-:root{
-    font-size: calc(1vw + 0.6em);
-}
-
 body{
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
