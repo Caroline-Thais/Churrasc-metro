@@ -4,6 +4,10 @@
     box-sizing: inherit;
 }
 
+:root{
+    font-size: calc(1vw + 0.6em);
+}
+
 body{
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
@@ -17,6 +21,11 @@ body{
     margin: auto;
     padding: 20px;
     border-radius: 10px;
+}
+@media screen and (max-width: 35em){
+    .container{
+        margin-top: 35%;
+    }
 }
 
 h1{
