@@ -1,5 +1,7 @@
 # Churrascometro
 
+Web app to calculate the amount of meat and beverages needed for a barbecue according to the number of people and the longevity of the event.
+
 Aplicativo web para calcular a quantidade de carne e bebidas necessárias para um churrasco de acordo com o número de pessoas e a duração do evento.
 Tecnologias: HTML, CSS e JavaScript.
 
